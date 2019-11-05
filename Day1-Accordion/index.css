@@ -1,0 +1,39 @@
+body{
+    font-family: 'Roboto';
+  }
+  
+  .acc-container{
+    border: 0px solid red;
+    border-radius: 10px;
+    padding: 15px;
+    box-shadow: 1px 2px 10px #000
+  }
+  
+  .accordion{
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 0px;
+    padding: 10px;
+    background: rgba(73,155,234,1);
+  }
+  
+  .acc-header{
+    background-color:darkblue;
+    color: white;
+    margin: 2px;
+  }
+  
+  h2{
+    margin: 2px;
+  }
+  
+  .acc-text{
+    overflow: hidden;
+    max-height: 500px;
+    transition: all 0.5s ease-in-out;
+  }
+  
+  .hidden{
+    max-height: 0px;
+    transition: all 0.5s ease-out
+  }
