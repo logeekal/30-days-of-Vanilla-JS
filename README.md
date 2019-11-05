@@ -9,7 +9,7 @@ Here is the list of Ideas and their links and screenshots.
 
 
 
-## 1. Accordion (4-Nov-2019)
+## 1. Accordion
 
 This is a really good introduction to javscript on how we can dynamically affect the javascript.
 
@@ -24,7 +24,7 @@ Skills Earned:
 
 
 
-## 2. Statefull todo App (5-Nov-2019)
+## 2. Statefull todo App
 
 This is the simplest completed app that everyone must do as it takes maximum of 3 hours if know how language works.  I also needed to some googling.
 
