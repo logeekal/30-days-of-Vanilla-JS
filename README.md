@@ -24,7 +24,7 @@ Skills Earned:
 
 
 
-## 2. Statefull todo App
+## 2. Statefull todo App (3 hours)
 
 This is the simplest completed app that everyone must do as it takes maximum of 3 hours if know how language works.  I also needed to some googling.
 
@@ -42,3 +42,23 @@ Skills Earned:
 [View Code](./Day2-Stateful-Todo-App)
 
 ![](./Day2-Stateful-Todo-App/sample.jpg)
+
+
+## 3. State management System using Vanilla Javascript - (4 hours)
+
+I love React but I want to know how it works. I have tried contributing to React but it takes time to make a pull request in an open source project specially if you need someone else's input.
+
+So, I thought, I will quick build a state management system to see how it works. I know that is not the only thing in react but it works.
+
+I will be trying to do most of things on my own and below are the articles I refered.
+
+Skills Earned:
+
+- Event-driven development
+- Componentising HTML
+- Javascript Proxies
+- Form Submission
+- How Pub-Sub works
+
+
+

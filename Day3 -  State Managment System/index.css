@@ -1,0 +1,80 @@
+body {
+    font-family: "Roboto";
+    font-size: 30;
+  }
+  
+  .todo-container {
+    display: flex;
+    flex-direction: column;
+    width: 300;
+    background-color: #000;
+    color: yellow;
+  }
+  
+  .todo-items,
+  .todo-completed {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  #todo-item,
+  #todo-completed-item {
+    display: flex;
+    flex-direction: row;
+    border: 0px solid red;
+    margin: 5px;
+    background-color: #0d0d0d;
+    box-shadow: 1px 2px 3px #0d0d0d;
+  }
+  
+  #todo-completed-item {
+    color: grey;
+  }
+  
+  #todo-text,
+  #todo-completed-text {
+    width: 90%;
+    margin: 0;
+    padding: 5;
+  }
+  
+  #delTodo,
+  #delTodoCompleted {
+    background-color: black;
+    color: yellow;
+    cursor: pointer;
+    border: transparent;
+  }
+  
+  .todo-input-container {
+    display: flex;
+    flex-direction: "row";
+    border: 0.5px solid grey;
+    flex-flow: row;
+  }
+  
+  .todo-input {
+    width: 90%;
+  }
+  
+  .strike {
+    text-decoration: line-through;
+  }
+  
+  .todo-input input {
+    border-color: transparent;
+    background: transparent;
+    height: 2rem;
+    background-color: yellow;
+    width: 100%;
+    font-size: 1.5rem;
+  }
+  
+  .todo-add button {
+    cursor: pointer;
+    background-color: black;
+    color: yellow;
+    border: transparent;
+    height: 2rem;
+  }
+  
