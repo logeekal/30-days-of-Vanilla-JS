@@ -50,7 +50,7 @@ I love React but I want to know how it works. I have tried contributing to React
 
 So, I thought, I will quick build a state management system to see how it works. I know that is not the only thing in react but it works.
 
-I will be trying to do most of things on my own and below are the articles I refered.
+I implemented yesterday's todo App in react based state management and compoenent system and You can check how easy it gets to make an app modular with this method.
 
 Skills Earned:
 
@@ -60,5 +60,4 @@ Skills Earned:
 - Form Submission
 - How Pub-Sub works
 
-
-
+[View Code]('./Day3%20-%20State%20Managment%20System')
